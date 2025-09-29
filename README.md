@@ -78,6 +78,8 @@ Academic Year: **2024/2025**
 - Customers with subscriptions show **higher purchase frequency**.  
 
 ---
+## Link To Code 
+[Google Colab](https://colab.research.google.com/drive/1FrKkMG75N4tPFHmphiV62ssLetOnyVSg?usp=sharing)
 
 ## Acknowledgment
 - Dataset by [Sourav Banerjee on Kaggle](https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset).  
