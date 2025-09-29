@@ -13,8 +13,8 @@ The dataset is sourced from Kaggle: [Customer Shopping Trends Dataset](https://w
 - Jazlyn Phylicia (2702247916)  
 - Hernando Tan (2702240954)  
 
-Class: **LD01**  
-Academic Year: **2024/2025**
+**Class:** LD01  
+**Academic Year:** 2024/2025  
 
 ---
 
@@ -63,7 +63,7 @@ Academic Year: **2024/2025**
 
 ### 3. Visualization
 - Created interactive dashboard using **Tableau**.  
-- Dashboard link: 👉 [Customer Shopping Trends Dashboard]([https://public.tableau.com/shared/5N7H39N9B?:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/DashboardTrial_17475634635350/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))  
+- Dashboard link: 👉 [Customer Shopping Trends Dashboard](https://public.tableau.com/views/DashboardTrial_17475634635350/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 
 📷 **Screenshots:**  
 - Overall Dashboard  
@@ -78,10 +78,13 @@ Academic Year: **2024/2025**
 - Customers with subscriptions show **higher purchase frequency**.  
 
 ---
-## Link To Code 
-[Google Colab](https://colab.research.google.com/drive/1FrKkMG75N4tPFHmphiV62ssLetOnyVSg?usp=sharing)
 
-## Acknowledgment
+## 💻 Link to Code
+- [Google Colab Notebook](https://colab.research.google.com/drive/1FrKkMG75N4tPFHmphiV62ssLetOnyVSg?usp=sharing)  
+
+---
+
+## 🙏 Acknowledgment
 - Dataset by [Sourav Banerjee on Kaggle](https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset).  
 - Visualization dashboard created with [Tableau Public](https://public.tableau.com/).  
 - Developed as part of **Data Analytics Final Project** coursework.  
