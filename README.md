@@ -63,7 +63,7 @@ Academic Year: **2024/2025**
 
 ### 3. Visualization
 - Created interactive dashboard using **Tableau**.  
-- Dashboard link: 👉 [Customer Shopping Trends Dashboard](https://public.tableau.com/shared/5N7H39N9B?:display_count=n&:origin=viz_share_link)  
+- Dashboard link: 👉 [Customer Shopping Trends Dashboard]([https://public.tableau.com/shared/5N7H39N9B?:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/DashboardTrial_17475634635350/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))  
 
 📷 **Screenshots:**  
 - Overall Dashboard  
